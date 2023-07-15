@@ -12,3 +12,5 @@ The project aims to develop a Python program for analyzing and extracting insigh
 
 
 ### Use the above imported Whatsapp group chat to analyse and extract insights from the group chat.
+
+## Overall, this WhatsApp chat analysis project aims to provide a comprehensive toolkit for analyzing and gaining insights from WhatsApp chat data using Python. It combines text processing techniques, statistical analysis, and data visualization to offer a user-friendly and informative analysis of chat conversations.
