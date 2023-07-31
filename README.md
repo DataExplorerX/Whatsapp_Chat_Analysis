@@ -1,5 +1,5 @@
-# Whatsapp_Chat_Analysis
-The project aims to develop a Python program for analyzing and extracting insights from WhatsApp chat data.WhatsApp is a widely used messaging platform with extensive user interactions, making it an interesting source of data for analysis. The program will provide various features to analyze chat history, including message frequency, popular words, active participants, and more.
+# Whatsapp_GroupChat_Analysis
+The project aims to develop a Python program for analyzing and extracting insights from WhatsApp group chat data.WhatsApp is a widely used messaging platform with extensive user interactions, making it an interesting source of data for analysis. The program will provide various features to analyze chat history, including message frequency, popular words, active participants, and more.
 
 ## To import WhatsApp chat data into your Python program, you need to obtain the chat history as a text file. WhatsApp allows you to export chat logs directly from the app. Here are the steps to follow:
 
@@ -13,4 +13,6 @@ The project aims to develop a Python program for analyzing and extracting insigh
 
 ### Use the above imported Whatsapp group chat to analyse and extract insights from the group chat.
 
-## Overall, this WhatsApp chat analysis project aims to provide a comprehensive toolkit for analyzing and gaining insights from WhatsApp chat data using Python. It combines text processing techniques, statistical analysis, and data visualization to offer a user-friendly and informative analysis of chat conversations.
+### Note: Overall, this WhatsApp chat analysis project aims to provide a comprehensive toolkit for analyzing and gaining insights from WhatsApp chat data using Python. It combines text processing techniques, statistical analysis, and data visualization to offer a user-friendly and informative analysis of chat conversations.
+
+
